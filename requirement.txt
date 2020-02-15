@@ -1,0 +1,7 @@
+PyGithub
+python-jenkins
+jira
+flask
+pymongo
+requests
+
